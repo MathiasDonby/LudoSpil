@@ -1,0 +1,7 @@
+c:\users\mathias donby\source\repos\LudoSpil\LudoSpil\obj\Debug\LudoSpil.csprojAssemblyReference.cache
+c:\users\mathias donby\source\repos\LudoSpil\LudoSpil\obj\Debug\LudoSpil.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Donby\source\repos\LudoSpil\LudoSpil\bin\Debug\LudoSpil.exe.config
+C:\Users\Mathias Donby\source\repos\LudoSpil\LudoSpil\bin\Debug\LudoSpil.exe
+C:\Users\Mathias Donby\source\repos\LudoSpil\LudoSpil\bin\Debug\LudoSpil.pdb
+C:\Users\Mathias Donby\source\repos\LudoSpil\LudoSpil\obj\Debug\LudoSpil.exe
+C:\Users\Mathias Donby\source\repos\LudoSpil\LudoSpil\obj\Debug\LudoSpil.pdb
